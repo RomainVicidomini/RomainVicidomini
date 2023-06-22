@@ -9,7 +9,7 @@
 
 <p align="center">
 Après 5 années dans l’informatique industrielle (automaticien / roboticien)et une formation développeur fullstack
-javascript, je souhaite mobilisé mes connaissances dans la constructions de sites web et web
+javascript, je souhaite mobiliser mes connaissances dans la construction de sites web et web
 mobile répondant aux attentes des clients.
  </p>
 
